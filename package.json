@@ -1,0 +1,22 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveHeinis/test-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveHeinis/test-travis/issues"
+  },
+  "homepage": "https://github.com/SteveHeinis/test-travis#readme",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
